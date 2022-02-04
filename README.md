@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Leland Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelandjin)](https://github.com/anuraghazra/github-readme-stats)
+[![Leland Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelandjin&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelandjin&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LelandJin/LelandJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
